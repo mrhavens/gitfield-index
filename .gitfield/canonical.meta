@@ -1,0 +1,23 @@
+{
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/gitfield-index",
+  "mirrors": [
+    "https://github.com/mrhavens/gitfield-index",
+    "https://gitlab.com/mrhavens/gitfield-index",
+    "https://bitbucket.org/thefoldwithin/gitfield-index",
+    "https://remember.thefoldwithin.earth/mrhavens/gitfield-index",
+    "https://codeberg.org/mrhavens/gitfield-index",
+    "https://gitea.com/mrhavens/gitfield-index",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "timestamp": "2025-06-13T03:53:40Z",
+  "commit": "0efe337",
+  "tree_hash": "40b6e126732a7a03282947d9c5f9aaea2ecb415b",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+
+  ]
+}
