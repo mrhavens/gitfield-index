@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "gitfield-index",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/gitfield-index",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/gitfield-index",
+  "sameAs": [
+    "https://github.com/mrhavens/gitfield-index",
+    "https://gitlab.com/mrhavens/gitfield-index",
+    "https://bitbucket.org/thefoldwithin/gitfield-index",
+    "https://remember.thefoldwithin.earth/mrhavens/gitfield-index",
+    "https://codeberg.org/mrhavens/gitfield-index",
+    "https://gitea.com/mrhavens/gitfield-index",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-13T03:53:40Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+
+  ]
+}
